@@ -1,0 +1,22 @@
+{
+    "success": {
+        "name": "Read a TypeScript book",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "Study Playwright",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update": {
+        "name": "Watch Page Objects lesson",
+        "is_done": false
+    },
+    "delete": {
+        "name": "Study Java",
+        "is_done": false
+    }
+}
